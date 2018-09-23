@@ -3,7 +3,7 @@ require 'pry'
 def second_supply_for_fourth_of_july(holiday_hash)
   # given that holiday_hash looks like this:
   # {
-  #   :winter => {  
+  #   :winter => {
   #     :christmas => ["Lights", "Wreath"],
   #     :new_years => ["Party Hats"]
   #   },
@@ -61,10 +61,3 @@ def all_holidays_with_bbq(holiday_hash)
   # include the string "BBQ"
 
 end
-
-
-
-
-
-
-
